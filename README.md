@@ -14,9 +14,9 @@ Please create a narrative based on your research. In your narrative, please desc
 
 # Word Cloud 1
 ![visualization word cloud of Hoi An](wordcloud-1.png)
-[Download the CSV](search-result-1.csv)
+- [Download the CSV](search-result-1.csv)
 
 # World Cloud 2
 ![visualization word cloud of Hoi An flooding](wordcloud-2.png)
-[Download the CSV](search-result-2.csv)
+- [Download the CSV](search-result-2.csv)
 
